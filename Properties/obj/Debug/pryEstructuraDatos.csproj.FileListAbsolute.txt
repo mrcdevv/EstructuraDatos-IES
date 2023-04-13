@@ -1,0 +1,12 @@
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\bin\Debug\pryEstructuraDatos.exe.config
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\bin\Debug\pryEstructuraDatos.exe
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\bin\Debug\pryEstructuraDatos.pdb
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.AssemblyReference.cache
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmInicio.resources
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.Properties.Resources.resources
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.GenerateResource.cache
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.exe
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.pdb
+C:\Users\mrc\dev\Facultad\pryEstructuraDatos\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmDatosPersonales.resources

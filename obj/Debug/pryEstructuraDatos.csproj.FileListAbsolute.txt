@@ -1,0 +1,9 @@
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\bin\Debug\pryEstructuraDatos.exe
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\bin\Debug\pryEstructuraDatos.pdb
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.AssemblyReference.cache
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmEstructuraCola.resources
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmDatosPersonales.resources
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmInicio.resources
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\...pryEstructuraDatos.Properties.Resources.resources
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.GenerateResource.cache
+D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.CoreCompileInputs.cache
