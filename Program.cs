@@ -16,7 +16,7 @@ namespace pryEstructuraDatos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmEstructuraCola());
+            Application.Run(new frmEstructuraPila());
         }
     }
 }

@@ -210,6 +210,7 @@
             // 
             this.txtTramiteElim.Location = new System.Drawing.Point(76, 106);
             this.txtTramiteElim.Name = "txtTramiteElim";
+            this.txtTramiteElim.ReadOnly = true;
             this.txtTramiteElim.Size = new System.Drawing.Size(136, 26);
             this.txtTramiteElim.TabIndex = 5;
             // 
@@ -217,6 +218,7 @@
             // 
             this.txtNombreElim.Location = new System.Drawing.Point(76, 67);
             this.txtNombreElim.Name = "txtNombreElim";
+            this.txtNombreElim.ReadOnly = true;
             this.txtNombreElim.Size = new System.Drawing.Size(136, 26);
             this.txtNombreElim.TabIndex = 4;
             // 
@@ -224,6 +226,7 @@
             // 
             this.txtCodigoElim.Location = new System.Drawing.Point(119, 27);
             this.txtCodigoElim.Name = "txtCodigoElim";
+            this.txtCodigoElim.ReadOnly = true;
             this.txtCodigoElim.Size = new System.Drawing.Size(93, 26);
             this.txtCodigoElim.TabIndex = 3;
             // 

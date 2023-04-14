@@ -7,3 +7,14 @@ D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.frmIn
 D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\...pryEstructuraDatos.Properties.Resources.resources
 D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.GenerateResource.cache
 D:\Escritorio\malumabeisbe\pryEstructuraDatos\obj\Debug\pryEstructuraDatos.csproj.CoreCompileInputs.cache
+E:\Escritorio\f\EstructuraDatos-IES\bin\Debug\pryEstructuraDatos.exe
+E:\Escritorio\f\EstructuraDatos-IES\bin\Debug\pryEstructuraDatos.pdb
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.csproj.AssemblyReference.cache
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.csproj.SuggestedBindingRedirects.cache
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.frmEstructuraCola.resources
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.frmDatosPersonales.resources
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.frmEstructuraPila.resources
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.frmInicio.resources
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\...pryEstructuraDatos.Properties.Resources.resources
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.csproj.GenerateResource.cache
+E:\Escritorio\f\EstructuraDatos-IES\obj\Debug\pryEstructuraDatos.csproj.CoreCompileInputs.cache
