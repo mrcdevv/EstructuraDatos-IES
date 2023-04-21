@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cola.cs" />
+    <Compile Include="frmEstructuraListaDobleEnlazada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstructuraListaDobleEnlazada.Designer.cs">
+      <DependentUpon>frmEstructuraListaDobleEnlazada.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmEstructuraListaSimple.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +65,7 @@
     <Compile Include="frmEstructuraPila.Designer.cs">
       <DependentUpon>frmEstructuraPila.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListaDoble.cs" />
     <Compile Include="ListaSimple.cs" />
     <Compile Include="Nodo.cs" />
     <Compile Include="frmEstructuraCola.cs">
@@ -87,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmDatosPersonales.resx">
       <DependentUpon>frmDatosPersonales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstructuraListaDobleEnlazada.resx">
+      <DependentUpon>frmEstructuraListaDobleEnlazada.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEstructuraListaSimple.resx">
       <DependentUpon>frmEstructuraListaSimple.cs</DependentUpon>
