@@ -70,6 +70,8 @@ namespace pryEstructuraDatos
 
         public void Eliminar( Int32 codigo)
         {
+
+            // Si el dato que borro es el unico de la lista
             if(Primero.Codigo == codigo && Ultimo == Primero)
             {
                 Primero = null;
@@ -77,6 +79,7 @@ namespace pryEstructuraDatos
             }
             else
             {
+                // Si el que borro es el primero de la lista
                 if(Primero.Codigo == codigo)
                 {
                     Primero = Primero.Siguiente;
@@ -84,11 +87,13 @@ namespace pryEstructuraDatos
                 }
                 else
                 {
-                    if(Ultimo.Codigo == codigo)
+                    // Si el que borro es el ultimo de la lista
+                    if (Ultimo.Codigo == codigo)
                     {
                         Ultimo = Ultimo.Anterior;
                         Ultimo.Siguiente = null;
                     }
+                    // Intermedio
                     else
                     {
                         Nodo Aux = Primero;
@@ -100,8 +105,14 @@ namespace pryEstructuraDatos
                             Aux = Aux.Siguiente;
                         }
 
-                        Ant.Siguiente = Aux.Siguiente;
+                        // Opcion 1
+                        // Ant.Siguiente = Aux.Siguiente;
+                        // Aux = Aux.Siguiente;
+                        // Aux.Anterior = Ant;
+
+                        // The GOAT
                         Aux = Aux.Siguiente;
+                        Ant.Siguiente = Aux;
                         Aux.Anterior = Ant;
                     }
                 }
