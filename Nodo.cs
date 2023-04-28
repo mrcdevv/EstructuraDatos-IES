@@ -13,6 +13,8 @@ namespace pryEstructuraDatos
         private String tra;
         private Nodo sig;
         private Nodo ant;
+        private Nodo izquiera;
+        private Nodo derecha;
 
 
         public Int32 Codigo
@@ -43,6 +45,18 @@ namespace pryEstructuraDatos
         {
             get { return ant; }
             set { ant = value; }
+        }
+
+        public Nodo Izquierda
+        {
+            get { return izquiera; }
+            set { izquiera = value; }
+        }
+
+        public Nodo Derecha
+        {
+            get { return derecha; }
+            set { derecha = value; }
         }
     }
 }
